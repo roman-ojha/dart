@@ -1,0 +1,1 @@
+-> dart 'filename' (to run the dart file)
