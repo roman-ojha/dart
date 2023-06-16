@@ -11,6 +11,7 @@
 void main(){
   printCities("Nuew York", "New Detail" ,"Sydney");
   printCountries("Usa", "India");
+  printCountries()
 }
 
 // Required Parameters

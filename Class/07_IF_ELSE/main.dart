@@ -1,3 +1,4 @@
+// If else conditional statement
 void main(){
   // IF and ELSE Statements
     var salary =25000;

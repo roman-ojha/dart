@@ -1,4 +1,4 @@
-
+// Switch Case Conditional statements 
 
 void main(){
   // Switch Case Statements: Applicable for only 'int' and 'String'
